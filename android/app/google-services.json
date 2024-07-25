@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914396095719",
+    "project_id": "minip-5619c",
+    "storage_bucket": "minip-5619c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914396095719:android:51016b8da90b36b298ee42",
+        "android_client_info": {
+          "package_name": "com.example.mini_p"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDqdqIqjhiIERKbZjdAXwvO2kvGbFSpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
